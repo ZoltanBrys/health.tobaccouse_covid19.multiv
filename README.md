@@ -1,13 +1,20 @@
 ### this repo
 contains the prepared data and the R-syntax to the manusctipt titled "Comparing correlates of daily tobacco use and COVID-19 vaccination refusal in the working-age Hungarian population"
 
-### dataset and date
+
+### dataset
 The full dataset is available to academic researchers upon request from the Research Documentation Centre (RDC) at the Centre for Social Sciences, with access restricted to prevent misuse by the tobacco industry.
 The prepared data is in the C19.RDS object.
 
-## citation
+
+### citation
 If you use this code in your research, please cite this repo and/or the paper as:
 ...
+
+
+### dependencies
+see *sessioninfo.txt*
+
 
 ### licence : CC-BY-NC-ND 4.0 
 Prohibition on Use by Tobacco Companies and their Affiliates
@@ -18,5 +25,4 @@ For the purposes of this clause, "Tobacco Companies" shall mean any entity engag
 including but not limited to cigarettes, cigars, smokeless tobacco, electronic cigarettes, heated tobacco products, vaping products, and any other nicotine delivery systems. 
 "Affiliates" shall mean any entity that directly or indirectly controls, is controlled by, or is under common control with a tobacco company, whether through ownership, financial means, management, or other means.
 
-### dependencies
-see *sessioninfo.txt*
+
